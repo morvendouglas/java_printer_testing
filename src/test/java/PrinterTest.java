@@ -31,7 +31,4 @@ public class PrinterTest {
         assertEquals(16, printer.tonerReducesWhilePrinting(2, 2));
     }
 
-
-
-
 }
